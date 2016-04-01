@@ -22,7 +22,7 @@ insertion_sort():128.03 seconds.
 v1/v2 are the same
 
 size = 100000
-sort():0.55 seconds
+sort():0.51 seconds
 v1/v2 are different.
-insertion_sort():154.26 seconds.
+insertion_sort():12814 seconds.
 v1/v2 are the same
