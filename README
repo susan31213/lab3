@@ -26,3 +26,13 @@ sort():0.51 seconds
 v1/v2 are different.
 insertion_sort():12814 seconds.
 v1/v2 are the same
+
+sort (nlogn):
+0.51/0.04 = 12.75
+--10*log10 = 10--
+
+insertion (n^2):
+1.32/0.01 = 132
+128.03/1.32 = 97
+12814/128.03 = 100.09
+--10^2 = 100--
