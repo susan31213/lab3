@@ -1,0 +1,28 @@
+a.
+輸入make編譯a小題
+輸入a.out執行程式
+
+b.
+size = 1000
+sort():0 seconds
+v1/v2 are different.
+insertion_sort():0.01 seconds.
+v1/v2 are the same
+
+size = 10000
+sort():0 seconds
+v1/v2 are different.
+insertion_sort():1.32 seconds.
+v1/v2 are the same
+
+size = 100000
+sort():0.04 seconds
+v1/v2 are different.
+insertion_sort():128.03 seconds.
+v1/v2 are the same
+
+size = 100000
+sort():0.55 seconds
+v1/v2 are different.
+insertion_sort():154.26 seconds.
+v1/v2 are the same
